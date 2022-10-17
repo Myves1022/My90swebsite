@@ -1,0 +1,28 @@
+<!DOCTYPE html
+<html>
+	<head>
+		<title>First Page</title>
+        <style>
+            p{
+                background-color:
+            }
+        </style>
+	</head>
+    <!-- apply inline    style-->
+        <h1 style="background-color:cyan"></h1>
+	<body>
+		<p>This is The First Page...</p>
+        <hr/>
+        <p>Welcome to my page. 
+            We are learning.<br/> 
+            This is good.
+        </p>
+        <hr/>
+        <a href="lists.html">Lists</a> <br>
+        <a href="images.html">Images</a> <br>
+        <a href="tabledemo.html">tableDemo</a><br>
+        <a href="formsdemo.html">forms demo</a>
+	</body>
+
+
+</html>
