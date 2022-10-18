@@ -4,11 +4,31 @@ background-color: yellow;
 
 p{
     color: blue;
+    font-size: 50px;
+    
 }
 
 a{
     color: black;
-    font-size: large;
+    font-size: 15px;
     font-weight: bold;
-    margin-block-end: 5px;
+    margin-block-end: 25px;
+}
+h6{
+    font-size: 40px;
+    font-weight: lighter;
+    font-style: oblique;
+
+}
+h3{
+    font-size: 20px;
+}
+ul{
+    font-size: larger;
+    font-style: bold;
+    font-display: 40px;
+}
+h1{
+    font-size: xx-large;
+    flex-wrap: 10px;
 }
